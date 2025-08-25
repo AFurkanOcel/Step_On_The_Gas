@@ -1,5 +1,7 @@
 # 🏎️ Step On The Gas
 
+**Platform**: PC
+
 Welcome to **Step On The Gas**, a 3D endless racing game where you drive a car on an infinite road, collect coins, avoid obstacles, and try to achieve the highest score possible.  
 
 ---
