@@ -69,19 +69,12 @@ In Step On The Gas, players control a car driving endlessly along a dynamic road
 ---
 
 ### **Assets**:
-- 3D Battery Model From: [https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106](https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106)  
-- 3D Ghost Model From: [https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926](https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926)  
-- 3D Key Model From: [https://assetstore.unity.com/packages/3d/props/rust-key-167590](https://assetstore.unity.com/packages/3d/props/rust-key-167590)  
-- 3D Snowball Model From: [https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579](https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579)  
-- Sky Texture From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)  
-- 3D Hand Model From: [https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297](https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297)  
+- 3D Car Model From: [https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085](https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085)
+- Sky Texture From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
 
 ### **Audio**:  
-- Walking Sound Effect: [https://www.youtube.com/watch?v=y3MVUQnIsoM&ab_channel=HankTank](https://www.youtube.com/watch?v=y3MVUQnIsoM&ab_channel=HankTank)  
-- Breathing Sound Effect: [https://www.youtube.com/watch?v=MIxY154tBcg&ab_channel=SoundKind](https://www.youtube.com/watch?v=MIxY154tBcg&ab_channel=SoundKind)  
-- Game Music From: [https://assetstore.unity.com/packages/audio/music/rock/halloween-game-music-pack-235870#content](https://assetstore.unity.com/packages/audio/music/rock/halloween-game-music-pack-235870#content)  
-
-### **Maze Generation**: [https://www.mazegenerator.net/](https://www.mazegenerator.net/)  
+- Sound Effects: [https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255](https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255)  
+- Game Music From: [https://assetstore.unity.com/packages/audio/music/fantasy-tavern-music-free-pack-118847](https://assetstore.unity.com/packages/audio/music/fantasy-tavern-music-free-pack-118847)  
 
 ---
 
