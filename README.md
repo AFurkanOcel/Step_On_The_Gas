@@ -1,88 +1,123 @@
 # 🚗 Step On The Gas
 
-**Platform**: PC
-
-Welcome to **Step On The Gas**, a 3D endless racing game where you drive a car on an infinite road, collect coins, avoid obstacles, and try to achieve the highest score possible.  
+A **3D endless driving game** developed with Unity and C#, featuring dynamic road gameplay, obstacle avoidance, collectible systems, multiple camera perspectives, and configurable day/night environments.
 
 ---
 
-## 🎮 Gameplay Overview
+# Overview
 
-In Step On The Gas, players control a car driving endlessly along a dynamic road. Dodge walls and tunnels at the beginning, then navigate through traffic while collecting coins. Use lights, honk, and switch camera views for a fully interactive experience.  
+**Step On The Gas** is a PC-based arcade driving game where the player controls a vehicle on an endless road while avoiding traffic and obstacles, collecting coins, and maximizing score.
 
----
-
-## 🧩 Controls
-
-- **D / Right Arrow**: Move Right  
-- **A / Left Arrow**: Move Left  
-- **Space**: Switch Between Cameras  
-- **Enter**: Beep / Horn  
-- **L**: Turn On/Off Lights  
-- **P**: Pause Game  
-- **R**: Restart from Starting Line  
-- **Esc**: Return to Menu  
+The project focuses on real-time gameplay mechanics, modular game systems, and interactive player controls within a responsive 3D environment.
 
 ---
 
-## 🎨 Features & Environment
+# Project Structure
 
-- **Camera Views**: Switch between inside the car or third-person perspective  
-- **Lighting**: Day and Night modes via Settings menu  
-- **Dynamic Road**: Infinite 3D road with walls, tunnels, and traffic  
-- **Interactive Car**: Honk horn, control lights, and change perspective  
-- **Menu System**: Four buttons – **Play**, **Quit**, **Controls**, and **Settings**  
-
----
-
-## 🛠️ Game Mechanics
-
-- **Score & Coins**: Collect coins along the way to increase score  
-- **Obstacles**: Avoid walls, tunnels, and traffic  
-- **Endless Gameplay**: Drive infinitely and challenge yourself to beat your best score  
-
----
-
-## 🔧 Technologies Used
-
-- **Unity Engine (3D)**  
-- **C#**  
-- **TextMeshPro**  
-- **Unity Animator**  
+```text
+Step_On_The_Gas/
+├── Assets/
+│   ├── Scripts/
+│   ├── Scenes/
+│   ├── Prefabs/
+│   ├── Materials/
+│   ├── Audio/
+│   └── UI/
+├── Packages/
+├── ProjectSettings/
+└── README.md
+```
 
 ---
 
-## 📜 Credits
+# Features
 
-### **Game Development**: A. Furkan Öcel  
+- Endless driving gameplay loop
+- Dynamic road environment
+- Coin collection & score tracking
+- Traffic and obstacle avoidance
+- Multiple camera modes (first-person / third-person)
+- Vehicle horn and light controls
+- Day / Night environment settings
+- Pause and restart system
+- Main menu & settings UI
 
 ---
 
-## 🖼️ Images
+# Technical Stack
 
-**Morning**  
+| Component | Technology |
+|-----------|------------|
+| Engine | Unity 2022.3 LTS |
+| Language | C# |
+| UI | TextMeshPro + Unity UI |
+| Physics | Unity Physics |
+| Audio | Unity Audio System |
+| Rendering | Built-in Render Pipeline |
+
+---
+
+# Architecture
+
+The project follows a modular Unity scene architecture with separate systems for gameplay, environment management, user interface, and player interaction.
+
+Core systems include:
+
+- Player Vehicle Controller
+- Camera Controller
+- Coin & Score Manager
+- Obstacle Spawner
+- UI Manager
+- Environment Manager
+
+---
+
+# Controls
+
+| Key | Action |
+|-----|--------|
+| A / ← | Move Left |
+| D / → | Move Right |
+| Space | Switch Camera |
+| Enter | Horn |
+| L | Toggle Lights |
+| P | Pause |
+| R | Restart |
+| Esc | Return to Menu |
+
+---
+
+# Screenshots
+
+## Day Mode
 <img width="1920" height="1080" alt="morning" src="https://github.com/user-attachments/assets/709c5697-0652-495e-af24-2f90807a9de3" />
 
-
-**Night**  
+## Night Mode
 <img width="1920" height="1080" alt="night" src="https://github.com/user-attachments/assets/7ffe1404-6792-401f-bd00-7087e6cbdd6b" />
 
+---
+
+# Assets & Credits
+
+External assets used from:
+
+- https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+- https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255
+- https://assetstore.unity.com/packages/audio/music/fantasy-tavern-music-free-pack-118847
 
 ---
 
-### **Assets**:
-- 3D Car Model From: [https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085](https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085)
-- Sky Texture From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
-
-### **Audio**:  
-- Sound Effects: [https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255](https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255)  
-- Game Music From: [https://assetstore.unity.com/packages/audio/music/fantasy-tavern-music-free-pack-118847](https://assetstore.unity.com/packages/audio/music/fantasy-tavern-music-free-pack-118847)  
-
----
-
-## 📥 Installation and Play
-
-1. Clone or download this repository:  
+# Run Locally
 
 ```bash
 git clone https://github.com/AFurkanOcel/Step_On_The_Gas
+```
+
+Open the project using **Unity Hub (Unity 2022.3.4f1)** and press **Play** inside the Unity Editor.
+
+---
+
+# Developer
+
+**A. Furkan ÖCEL**
