@@ -1,6 +1,17 @@
-# 🚗 Step On The Gas
+<h1 align="center">🚗 Step On The Gas</h1>
 
-A **3D endless driving game** developed with Unity and C#, featuring dynamic road gameplay, obstacle avoidance, collectible systems, multiple camera perspectives, and configurable day/night environments.
+<p align="center">
+3D endless driving game built with Unity and C#, featuring dynamic road gameplay, obstacle avoidance, collectible systems, and configurable day/night environments.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity%202022.3%20LTS-black"/>
+  <img src="https://img.shields.io/badge/Language-C%23-purple"/>
+  <img src="https://img.shields.io/badge/UI-TextMeshPro-blue"/>
+  <img src="https://img.shields.io/badge/Platform-PC-green"/>
+  <img src="https://img.shields.io/badge/Game%20Type-Endless%20Driving-orange"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
+</p>
 
 ---
 
