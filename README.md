@@ -67,11 +67,8 @@ Step_On_The_Gas/
 |   |   |-- textcoin.cs
 |   |   `-- textscore.cs
 |   |-- colors/
-|   |-- JellyIcons/
-|   |-- Military_pack/
 |   |-- Music Tracks/
 |   |-- prefabs/
-|   |-- Race Car Package/
 |   |-- Scenes/
 |   |   |-- mainmenu.unity
 |   |   |-- game.unity
@@ -80,7 +77,6 @@ Step_On_The_Gas/
 |   |   `-- settings.unity
 |   |-- Score and Times - Game Sound Solutions/
 |   |-- Skybox/
-|   |-- Tavern Music Free Pack/
 |   `-- TextMesh Pro/
 |-- Packages/
 |   |-- manifest.json
@@ -241,10 +237,6 @@ The menu system loads day mode, night mode, controls, and settings scenes. The p
 
 https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
 
-- Jelly Icons:
-
-https://assetstore.unity.com/packages/2d/gui/icons/jelly-icons-99749
-
 - AllSky Free - 10 Sky / Skybox Set:
 
 https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
@@ -254,10 +246,6 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-s
 - Score and Time:
 
 https://assetstore.unity.com/packages/audio/sound-fx/score-and-time-59255
-
-- Fantasy Tavern Music Free Pack:
-
-https://assetstore.unity.com/packages/audio/music/fantasy-tavern-music-free-pack-118847
 
 ---
 

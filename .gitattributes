@@ -1,2 +1,38 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Unity text assets
+*.cs text diff=csharp
+*.shader text
+*.cginc text
+*.hlsl text
+*.compute text
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.anim text eol=lf
+*.controller text eol=lf
+*.asmdef text eol=lf
+*.json text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
+*.hdr binary
+*.ttf binary
+
+# Third-party Unity assets should not dominate GitHub language statistics
+Assets/ARCADE[[:space:]]-[[:space:]]FREE[[:space:]]Racing[[:space:]]Car/** linguist-vendored
+Assets/Score[[:space:]]and[[:space:]]Times[[:space:]]-[[:space:]]Game[[:space:]]Sound[[:space:]]Solutions/** linguist-vendored
+Assets/Skybox/** linguist-vendored
+Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+Assets/Music[[:space:]]Tracks/** linguist-vendored
