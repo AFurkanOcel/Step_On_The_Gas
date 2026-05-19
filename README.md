@@ -1,4 +1,4 @@
-<h1 align="center">🚗 Step On The Gas</h1>
+<h1 align="center">Step On The Gas</h1>
 
 <p align="center">
 3D endless driving game built with Unity and C#, featuring dynamic road gameplay, obstacle avoidance, collectible systems, and configurable day/night environments.
