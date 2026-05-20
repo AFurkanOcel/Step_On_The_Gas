@@ -289,8 +289,6 @@ Compiled builds are not stored in this source repository. Release builds should 
 
 **A. Furkan ÖCEL**
 
-GitHub: https://github.com/AFurkanOcel
-
 ---
 
 ## License
