@@ -38,11 +38,11 @@ The project also includes a main menu, controls screen, settings screen, audio f
 
 ### Day Mode
 
-<img width="1920" height="1080" alt="step on the gas day mode" src="https://github.com/user-attachments/assets/709c5697-0652-495e-af24-2f90807a9de3" />
+<img width="1920" height="1080" alt="step on the gas day mode" src="Assets/screenshots/day-mode.png" />
 
 ### Night Mode
 
-<img width="1920" height="1080" alt="step on the gas night mode" src="https://github.com/user-attachments/assets/7ffe1404-6792-401f-bd00-7087e6cbdd6b" />
+<img width="1920" height="1080" alt="step on the gas night mode" src="Assets/screenshots/night-mode.png" />
 
 ---
 
@@ -75,8 +75,12 @@ Step_On_The_Gas/
 |   |   |-- nightgame.unity
 |   |   |-- controls.unity
 |   |   `-- settings.unity
+|   |-- screenshots/
+|   |   |-- day-mode.png
+|   |   `-- night-mode.png
 |   |-- Score and Times - Game Sound Solutions/
 |   |-- Skybox/
+|   |-- steponthegasicon.png
 |   `-- TextMesh Pro/
 |-- Packages/
 |   |-- manifest.json
