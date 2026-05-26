@@ -76,8 +76,6 @@ Step_On_The_Gas/
 |   |   |-- controls.unity
 |   |   `-- settings.unity
 |   |-- screenshots/
-|   |   |-- day-mode.png
-|   |   `-- night-mode.png
 |   |-- Score and Times - Game Sound Solutions/
 |   |-- Skybox/
 |   |-- steponthegasicon.png
@@ -90,8 +88,6 @@ Step_On_The_Gas/
 |-- README.md
 `-- .gitignore
 ```
-
-Unity-generated folders such as `Library`, `Logs`, `UserSettings`, and `obj` are intentionally ignored by Git.
 
 ---
 
